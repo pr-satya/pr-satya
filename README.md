@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/satya-pr-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/satya-pr-" height="30" width="40" /></a>
-<a href="https://instagram.com/move_buster_satya015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="move_buster_satya015" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/satya015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/satya015" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/satya-pr-" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_LinkedIn-128.png" alt="www.linkedin.com/in/satya-pr-" height="30" width="40" /></a>
+<a href="https://instagram.com/move_buster_satya015" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-64.png" alt="move_buster_satya015" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/satya015" target="blank"><img align="center" src="https://img.icons8.com/?size=48&id=AbQBhN9v62Ob&format=png" alt="https://auth.geeksforgeeks.org/user/satya015" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
